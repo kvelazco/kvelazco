@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi 👋 I am Kevin!
+Computer Science student at Florida International University and an aspiring software engineer.
 
-<!--
-**kvelazco/kvelazco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0175C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kevinvelazco/) 
 
-Here are some ideas to get you started:
+---
+Github Stats: 
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kvelazco&show_icons=true&theme=radical&line_height=27&hide=stars,prs">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kvelazco&hide=Procfile,jupyter%20notebook&theme=tokyonight&layout=compact">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white)](https://www.java.com/en/) 
+[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)](https://www.python.org/) [![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white)](https://www.cprogramming.com/) 
+

@@ -6,7 +6,7 @@ Connect with me! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0175C2?style
 ---
 Github Stats: 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kvelazco&show_icons=true&theme=radical&line_height=27&hide=stars,prs">
+  <!--  <img src = "https://github-readme-stats.vercel.app/api?username=kvelazco&show_icons=true&theme=radical&line_height=27&hide=stars,prs"> -->
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kvelazco&hide=jupyter%20notebook&theme=tokyonight">
 
 </p>

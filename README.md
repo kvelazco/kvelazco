@@ -1,5 +1,5 @@
 ## Hi 👋 I am Kevin!
-Computer Science at Florida International University and an aspiring software engineer.
+Software Developer and CS at FIU.
 
 Connect with me! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0175C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kevinvelazco/) 
 
